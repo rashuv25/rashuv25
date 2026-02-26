@@ -47,12 +47,12 @@ I care about **security, clean UX, and building things people actually use.**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+//---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=rashuv25&theme=dark&hide_border=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=rashuv25&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashuv25&theme=dark&hide_border=false&layout=compact)
+//## 📊 GitHub Stats  
+//![](https://github-readme-stats.vercel.app/api?username=rashuv25&theme=dark&hide_border=false&count_private=true)  
+//![](https://nirzak-streak-stats.vercel.app/?user=rashuv25&theme=dark&hide_border=false)  
+//![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashuv25&theme=dark&hide_border=false&layout=compact)
 
 ---
 
