@@ -49,16 +49,10 @@ I care about **security, clean UX, and building things people actually use.**
 
 //---
 
-//## 📊 GitHub Stats  
-//![](https://github-readme-stats.vercel.app/api?username=rashuv25&theme=dark&hide_border=false&count_private=true)  
-//![](https://nirzak-streak-stats.vercel.app/?user=rashuv25&theme=dark&hide_border=false)  
-//![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashuv25&theme=dark&hide_border=false&layout=compact)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rashuv25&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rashuv25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashuv25&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=rashuv25&theme=onedark&margin-w=8)
-
----
-
-![](https://visitcount.itsvg.in/api?id=rashuv25&icon=0&color=0)
+[![](https://visitcount.itsvg.in/api?id=rashuv25&icon=0&color=0)](https://visitcount.itsvg.in)
